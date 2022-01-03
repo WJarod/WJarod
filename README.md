@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jarod aka Nova
 #### Junior Developer  , 🌱 I'm in training at BeWeb 
-![Junior Developer  , 🌱 I'm in training at BeWeb ](https://pbs.twimg.com/profile_images/1446042823808192518/b5j1MMEr_400x400.jpg)
+![Junior Developer  , 🌱 I'm in training at BeWeb ](https://i.ibb.co/ykRCb19/Sans-titre-1.png)
 
 I made this project just for fun
 
