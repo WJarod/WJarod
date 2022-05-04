@@ -2,6 +2,8 @@
 #### Junior Developer
 ![Junior Developer](https://i.ibb.co/ykRCb19/Sans-titre-1.png)
 
+<a href="https://app.daily.dev/WNova"><img src="https://api.daily.dev/devcards/1358b90ee7004e9a86d5b14bd241d20a.png?r=khh" width="400" alt="Jarod Wuillaume's Dev Card"/></a>
+
 I made this project just for fun
 
 Skills: ANGULAR / REACT / JS / HTML / CSS / PHP 
