@@ -6,7 +6,7 @@
 <h3 align="center">- 📫 How to reach me **wuillaume.ja@gmail.com**</h3>
 
 <div align="center">
-<a href="https://app.daily.dev/WNova"><img src="https://api.daily.dev/devcards/1358b90ee7004e9a86d5b14bd241d20a.png?r=khh" width="221" alt="Jarod Wuillaume's Dev Card"/></a> <img src="https://github-readme-stats.vercel.app/api?username=WJarod&&show_icons=true&title_color=CE7642&icon_color=CE7642&text_color=FFFFFF&bg_color=0D1117&border_color=CE7642" height="300"> </div>
+<a href="https://app.daily.dev/WNova"><img src="https://api.daily.dev/devcards/1358b90ee7004e9a86d5b14bd241d20a.png?r=khh" width="215" alt="Jarod Wuillaume's Dev Card"/></a> <img src="https://github-readme-stats.vercel.app/api?username=WJarod&&show_icons=true&title_color=CE7642&icon_color=CE7642&text_color=FFFFFF&bg_color=0D1117&border_color=CE7642" height="290"> </div>
 
 
 <h3 align="center">Connect with me:</h3>
