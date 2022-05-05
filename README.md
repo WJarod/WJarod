@@ -3,7 +3,7 @@
 
 <h3 align="center">🔭 I’m currently working on <a href="https://github.com/dreamoove">Dreamoove</a></h3>
 
-<h3 align="center">- 📫 How to reach me **wuillaume.ja@gmail.com**</h3>
+<h3 align="center">📫 How to reach me wuillaume.ja@gmail.com</h3>
 
 <div align="center">
 <a href="https://app.daily.dev/WNova"><img src="https://api.daily.dev/devcards/1358b90ee7004e9a86d5b14bd241d20a.png?r=khh" width="185" alt="Jarod Wuillaume's Dev Card"/></a> <img src="https://github-readme-stats.vercel.app/api?username=WJarod&&show_icons=true&title_color=D2DAE9&icon_color=D2DAE9&text_color=FFFFFF&bg_color=0D1117&border_color=D2DAE9" height="250"> </div>
